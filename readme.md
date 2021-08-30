@@ -41,3 +41,7 @@ $ pip3 install -r requirements.txt
 $ python3 train.py
 $ python3 chat.py
 ```
+
+### Video demo
+
+https://drive.google.com/file/d/1Y19tb-Adf6fKD3390YuKryIqkeALJzo6/view?usp=sharing
